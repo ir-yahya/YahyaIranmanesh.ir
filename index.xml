@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yahya Iranmanesh</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Yahya Iranmanesh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 Yahya Iranmanesh</copyright>
+    <lastBuildDate>Thu, 01 Oct 2026 14:05:31 +0330</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Professional Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Thu, 01 Oct 2026 14:05:31 +0330</pubDate>
+      
+      <guid>http://localhost:1313/experience/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Patents</title>
+      <link>http://localhost:1313/patents/</link>
+      <pubDate>Thu, 01 Oct 2026 14:02:46 +0330</pubDate>
+      
+      <guid>http://localhost:1313/patents/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Thu, 01 Oct 2026 14:00:22 +0330</pubDate>
+      
+      <guid>http://localhost:1313/teaching/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Thu, 01 Oct 2026 13:57:26 +0330</pubDate>
+      
+      <guid>http://localhost:1313/research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 01 Oct 2026 12:52:24 +0330</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Thu, 01 Oct 2026 12:52:17 +0330</pubDate>
+      
+      <guid>http://localhost:1313/cv/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 01 Oct 2026 12:50:57 +0330</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
